@@ -131,7 +131,7 @@
    
     .container2 {
     position:absolute;
-    width:1150px;
+    width:1000px;
     height:130px;
     left:190px;
     }
