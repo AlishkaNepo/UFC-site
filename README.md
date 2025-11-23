@@ -128,14 +128,14 @@
         height:55px;
         border-radius:50%;
     }
-   .container2 {
+   
+    .container2 {
     position:absolute;
     width:1150px;
     height:130px;
     left:190px;
-
-    
     }
+
     .fights2 {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
